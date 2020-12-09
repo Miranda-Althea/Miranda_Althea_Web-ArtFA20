@@ -25,5 +25,3 @@
 <div style="font-size:145%; color:purple; display:inline-flex; flex-direction:row; padding:30px;">T-V Animals</div>
 
 <div style="font-size:145%; color:peru; display:inline-flex; flex-direction:row; padding:20px;">W-Z Animals</div>
-
-  </div>
